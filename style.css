@@ -4372,6 +4372,7 @@ input:-webkit-autofill:hover {
 
 .RoadMapSection_roadmap__timeline__item__OitQD:first-child {
   margin-right: 120px
+
 }
 
 .RoadMapSection_roadmap__timeline__item__OitQD {
@@ -4667,7 +4668,8 @@ input:-webkit-autofill:hover {
 
 .RoadMapSection_icon-wrapper__TA_7Y {
   height: 100px;
-  width: 100px
+  width: 100px;
+  transform: translateX(35px);
 }
 
 .RoadMapSection_icon-wrapper__TA_7Y img {
